@@ -1,0 +1,249 @@
+.row-header {
+  margin: 0px auto;
+  padding-top: 100px; 
+}
+.row-content {
+  margin: 0px auto;
+  padding: 0px 0px;
+  border-bottom: 0px ridge;
+  min-height: 70px;
+}
+.row-footer {
+  margin: 0px auto;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  background-color: #ffffff;
+}
+.jumbotron {
+  margin: 0px auto;
+  padding: 0px 0px;
+  background-image: url("https://ak5.picdn.net/shutterstock/videos/27423904/thumb/1.jpg");
+  background-size: cover;
+  color: floralwhite;
+  min-height: 650px;
+}
+.limit{
+        width: 100%;      
+        max-height: 500px;
+        overflow: hidden;
+}
+.limit img{
+       width: 100%;
+       height: 100%;
+}
+.intro{
+	min-height: 200px;
+	padding-top: 20px;
+	padding-bottom: 50px;		
+    max-width: 700px;
+    padding: 10px;	
+}
+.imcl{
+	height: 500px;
+	width: 500px;
+	padding-left: 0px;		
+}
+.bgcl{
+	background: #ECEDF5;
+	padding-left: 0px;
+	width: 40%;	
+}
+.teaarea{
+    text-align: center;   
+	color: #000000;
+	background: #ccc;
+	width: 100%;	
+	height: 500px;	
+	padding-top: 40px;
+}
+.pdcl{
+	padding-top: 150px;
+	height: 500px;
+    
+}
+.addal{
+	padding-top: 20px;
+}
+.abal{
+	color: #000000;
+	padding: 0px;
+	text-align: center;
+	height: 200px;
+	
+}
+.heading{
+	color: #000000;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	background-color: #ffffff;
+	min-height: 80px;
+}
+.headingcont{
+	color: #000000;
+	padding-bottom: 40px;
+	padding-top: 20px;
+	text-align: center;
+	background-color: #ffffff;
+	min-height: 80px;
+}
+.containerbg{
+	background: #ECEDF5;
+}
+.itleft{	
+	text-align: right;
+}
+.itright{
+ text-align: left;
+ }
+.ctcol{
+	background-color: #ECEDF5;
+}
+.socialnav{
+	background:  #050C33;
+	height: 70px;
+	padding-top: 20px;
+	text-align: center;	
+}
+.img-circle {
+    border-radius: 50%;
+}
+.verticalLine {
+  border-left: 1px solid  #ccc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.boxalign{
+	padding-bottom: 20px;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 20px;	
+}
+.textarea{
+	min-width: 45px;
+	height: 50px;
+	color: #ffffff;
+	background-color: #6879AF;
+	border: 1px solid-thin #4040ff;
+	-moz-box-shadow: 3px 3px 3px #c0c0c0;
+	-webkit-box-shadow: 3px 3px 3px #c0c0c0;
+	text-align: center;
+	padding-top: 10px;
+}
+img {
+    height: 80px;
+}
+h3{
+	font-weight: bold;
+}
+h4{
+	font-weight: bold;
+}
+h5{
+	font-weight: bold;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+.carousel {
+  background: #1a237e;
+}
+.carousel .item {
+  height: 800px;
+}
+.carousel .item img {
+  left: 0;
+  min-height: 500px;
+  position: absolute;
+  top: 0;
+}
+.navbar-inverse {
+  background: #ffffff;
+  color: #000000;
+}
+.navbar-inverse .navbar-nav > .active > a {
+   background: #ffffff;
+  color: #000000;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+   background: #ffffff;
+  color: #050C33;
+}
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background: #ffffff;
+  color: #050C33;
+}
+.navbar-inverse .navbar-nav > .open > a {
+   background: #ffffff;
+  color: #050C33;
+}
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background: #ffffff;
+  color: #050C33;
+}
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background: #ffffff;
+  color: #050C33;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+  background: #ffffff;
+  color: #000000;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+  color: #000000;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+  background: #ffffff;
+  color: #000000;
+}
+address {
+  color: #0f0f0f;
+  font-size: 80%;
+  margin: 0px;
+}
+body {
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  z-index: -1;
+  background-color: #ccc;
+  color: #000000;
+  
+}
+.tab-content {
+  border-bottom: 0px solid #dddddd;
+  border-left: 0px solid #dddddd;
+  border-right: 0px solid #dddddd;
+  padding: 0px;
+}
+.affix {
+  top: 100px;
+}
+#carouselButtons {
+  bottom: 0px;
+  position: absolute;
+  right: 0px;
+}
+
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("http://www.spiked-media.com/wp-content/uploads/2014/12/grid-background-e1442494309939.jpg");
+   
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.skcol{
+	background-color: #46578D;
+	color: #ffffff;
+}
